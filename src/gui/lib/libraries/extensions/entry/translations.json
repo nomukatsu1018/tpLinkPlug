@@ -1,0 +1,14 @@
+{
+  "en": {
+    "tpLinkPlug.entry.name": "TP-Link Plug",
+    "tpLinkPlug.entry.description": "Description of this extension"
+  },
+  "ja": {
+    "tpLinkPlug.entry.name": "TP-Link Plug",
+    "tpLinkPlug.entry.description": "拡張機能の説明"
+  },
+  "ja-Hira": {
+    "tpLinkPlug.entry.name": "TP-Link Plug",
+    "tpLinkPlug.entry.description": "かくちょうきのうのせつめい"
+  }
+}

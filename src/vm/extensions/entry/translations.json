@@ -1,0 +1,14 @@
+{
+  "en": {
+    "tpLinkPlug.entry.name": "TP-Link Plug",
+    "tpLinkPlug.entry.description": "Control TP-Link Smart Plug via Web API"
+  },
+  "ja": {
+    "tpLinkPlug.entry.name": "TP-Link Plug",
+    "tpLinkPlug.entry.description": "TP-Linkスマート・プラグをWeb APIで制御する"
+  },
+  "ja-Hira": {
+    "tpLinkPlug.entry.name": "TP-Link Plug",
+    "tpLinkPlug.entry.description": "TP-Linkスマート・プラグをWeb APIでせいぎょする"
+  }
+}
